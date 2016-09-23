@@ -5,7 +5,7 @@ This is a python tool for ESRI ArcMap to update the current data driven page ext
 
 Installing the addin:
 
-To use this tool, you will need to have ESRI ArcMap version 10.0 or later installed. Double-click on the "ddp_updatepgextent.esri.addin" to install as a toolbar. (If you'd rather just check out the python code, it is provided in: python/arcgis_ddp_updatepageextent_addin.py)
+To use this tool, you will need to have ESRI ArcMap version 10.0 or later installed. Double-click on the "ddp_updatepgextent.esri.addin" to install as a tool you can place on a toolbar. (If you'd rather just check out the python code, it is provided in: python/arcgis_ddp_updatepageextent_addin.py)
 
 
 Adding the tool:
